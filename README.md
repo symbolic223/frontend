@@ -14,3 +14,6 @@
 - PUT  /api/attendance        ← {studentId, date, status}
 - GET  /api/grades?groupId=   → [{studentId, subjectId, value}]  (value 2–5 или null)
 - PUT  /api/grades            ← {studentId, subjectId, value}
+
+
+### Author is sosiskanyashka
